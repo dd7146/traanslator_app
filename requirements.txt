@@ -1,0 +1,7 @@
+To ensure that your Python translation app has all the necessary dependencies installed, you can list them in the requirements.txt file. Here's what to include in the requirements.txt:
+googletrans==4.0.0-rc1
+tkinter
+
+Once you've created the requirements.txt file, you or any other user can easily install all the dependencies by running the following command in the terminal:
+pip install -r requirements.txt
+
